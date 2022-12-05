@@ -2,13 +2,13 @@
 python 기초
 
 
-### 2022-11-28
+## 2022-11-28
 1. List, Tuple, Dictionary
 2. 문자열
 3. 함수와 모듈
 4. Window Programming
 
-### 2022-11-29
+## 2022-11-29
 #### 4. Window Programming
 1. Checkbox, Radio button, button 정렬
 1. mouse click event
@@ -25,6 +25,6 @@ python 기초
 1. Multi Thread
 #### 7. DB 연동
 
-### 2022-12-05
+## 2022-12-05
 #### 7. DB 연동
 1. GUI 데이터 입력 및 조회
