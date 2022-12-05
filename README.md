@@ -1,8 +1,4 @@
-### python_study
-python 기초
-
-
-
+### python_basic
 
 ## 2022-11-28
 #### 1. List, Tuple, Dictionary
@@ -30,3 +26,9 @@ python 기초
 ## 2022-12-05
 #### 7. DB 연동
 1. GUI 데이터 입력 및 조회
+
+### Crawling
+#### 1. 파이썬으로 csv 다루기 (읽기, 쓰기)
+#### 2. Web Crawling
+1. web crawling
+1. 특정 기사 헤드라인 출력, 본문 파일로 저장하기
