@@ -32,3 +32,15 @@
 #### 2. Web Crawling
 1. web crawling
 1. 특정 기사 헤드라인 출력, 본문 파일로 저장하기
+
+## 2022-12-06
+### Python big data library
+#### 1. Numpy
+#### 2. Pandas
+#### 3. Data Frame
+#### 4. Matplotlib
+
+### Crawling - API
+#### 1. json 파일으로 저장
+#### 2. csv 파일으로 저장
+
