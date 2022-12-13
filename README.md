@@ -35,12 +35,16 @@
 
 ## 2022-12-06
 ### Python big data library
-#### 1. Numpy
-#### 2. Pandas
-#### 3. Data Frame
-#### 4. Matplotlib
+1. Numpy
+1. Pandas
+1. Data Frame
+1. Matplotlib
 
 ### Crawling - API
-#### 1. json 파일으로 저장
-#### 2. csv 파일으로 저장
+1. json 파일으로 저장
+1. csv 파일으로 저장
 
+## 2022-12-12 ~ 2022-12-13
+### Crawling - Library
+1. 정적 웹 페이지 크롤링
+1. 동적 웹 페이지 크롤링
